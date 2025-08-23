@@ -76,6 +76,14 @@
       height="40"
     />
   </a>
+   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"
+      alt="ifttt"
+      width="40"
+      height="40"
+    />
+  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
